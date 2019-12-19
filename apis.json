@@ -1,0 +1,67 @@
+{
+    "name": "DataHero",
+    "description": "DataHero is an online data visualization and data dashboard software platform that makes it easy to share insights with your team and your clients.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11275-datahero.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "data",
+        "have api",
+        "spreadsheets"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/datahero\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "DataHero",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11275-datahero.jpg",
+            "humanURL": "https:\/\/datahero.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/datahero-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/datahero.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/datahero.com\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/datahero"
+        },
+        {
+            "type": "Email",
+            "url": "sales@datahero.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@datahero.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Datahero"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/datahero"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/datahero.com\/"
+        }
+    ]
+}
